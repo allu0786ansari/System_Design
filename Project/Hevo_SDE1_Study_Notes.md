@@ -7,7 +7,6 @@
 4. SQL & DBMS
 5. Operating Systems & Concurrency Basics
 6. Behavioral / HR Round
-6. Behavioral / HR Round
 
 ---
 
